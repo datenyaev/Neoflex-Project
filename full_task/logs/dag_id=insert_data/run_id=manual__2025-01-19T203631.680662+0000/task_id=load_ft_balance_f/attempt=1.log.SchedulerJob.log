@@ -1,1 +1,0 @@
-[2025-01-19T20:37:19.463+0000] {scheduler_job_runner.py:781} ERROR - Executor reports task instance <TaskInstance: insert_data.load_ft_balance_f manual__2025-01-19T20:36:31.680662+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
