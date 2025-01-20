@@ -134,12 +134,6 @@ with DAG(
         sql="sql/fill_f101_round_f.sql"
     )
 
-    load_f101_round_f = PythonOperator(
-        task_id="load_f101_round_f",
-        python_callable=insert_data,
-        op_kwargs={"table_name": "f101_round_f"}
-    )
-
     end = DummyOperator(
         task_id="end"
     )
