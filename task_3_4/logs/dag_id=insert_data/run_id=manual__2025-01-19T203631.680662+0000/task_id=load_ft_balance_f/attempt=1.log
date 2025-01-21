@@ -1,3 +1,0 @@
-[2025-01-19T20:36:53.153+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: insert_data.load_ft_balance_f manual__2025-01-19T20:36:31.680662+00:00 [queued]>
-[2025-01-19T20:36:55.994+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: insert_data.load_ft_balance_f manual__2025-01-19T20:36:31.680662+00:00 [queued]>
-[2025-01-19T20:36:56.010+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 3

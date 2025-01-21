@@ -1,1 +1,0 @@
-psql -U postgres -d Neoflex -c "\COPY (SELECT * FROM dm.dm_f101_round_f) TO 'C:/Users/Dmitry/Desktop/Neoflex/task_3_4/files/dm_f101_round_f.csv' WITH CSV HEADER DELIMITER ',' ENCODING 'UTF8';" 
