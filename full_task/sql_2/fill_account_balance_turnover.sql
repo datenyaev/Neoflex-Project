@@ -1,1 +1,0 @@
-CALL dm.fill_account_balance_turnover()

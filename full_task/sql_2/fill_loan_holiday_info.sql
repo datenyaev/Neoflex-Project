@@ -1,1 +1,0 @@
-CALL dm.fill_loan_holiday_info()
